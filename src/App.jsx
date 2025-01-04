@@ -28,8 +28,8 @@ function App() {
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
       </p>
-      <p>
-        Vite is cool
+      <p className="text-3xl font-bold underline">
+        Vite + Tailwind is cool
       </p>
     </>
   )
